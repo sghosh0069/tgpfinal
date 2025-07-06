@@ -1,0 +1,33 @@
+{
+  "name": "tgp-jewellers-form",
+  "version": "1.0.0",
+  "description": "Customer Welcome Form for TGP Jewellers",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'No build step required for static HTML'",
+    "dev": "npx serve . -p 3000",
+    "preview": "npx serve . -p 8080"
+  },
+  "keywords": [
+    "jewellery",
+    "customer-form",
+    "static-website",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "TGP Jewellers",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "your-repository-url"
+  },
+  "homepage": "https://your-netlify-site.netlify.app"
+}
